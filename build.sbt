@@ -17,6 +17,7 @@ libraryDependencies ++= {
     "io.spray" %%  "spray-json" % "1.3.2",
     "org.apache.spark" %% "spark-core" % sprakV,
     "org.apache.spark" %% "spark-streaming" % sprakV,
+    "org.apache.spark" %% "spark-streaming-twitter" % sprakV,
     "org.scalatest" %% "scalatest" % "2.2.6" % "test")
 }
 
