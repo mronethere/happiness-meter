@@ -1,0 +1,23 @@
+bower_components
+
+# SBT
+boot/
+lib_managed/
+src_managed/
+test-output/
+target/
+.history
+.sbtserver
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+activator
+activator.bat
+activator-launch-1.3.5.jar
+
+twitter.conf
