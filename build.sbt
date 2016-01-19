@@ -18,6 +18,7 @@ libraryDependencies ++= {
     "org.apache.spark" %% "spark-core" % sprakV,
     "org.apache.spark" %% "spark-streaming" % sprakV,
     "org.apache.spark" %% "spark-streaming-twitter" % sprakV,
+    "org.apache.spark" %% "spark-mllib" % sprakV,
     "org.scalatest" %% "scalatest" % "2.2.6" % "test")
 }
 
